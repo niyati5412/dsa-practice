@@ -9,8 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niyati5412/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/niyati5412/dsa-practice/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niyati5412/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/niyati5412/dsa-practice/tree/master/2427-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/niyati5412/dsa-practice/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
