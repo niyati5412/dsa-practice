@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/niyati5412/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niyati5412/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/niyati5412/dsa-practice/tree/master/2427-number-of-common-factors) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/niyati5412/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
