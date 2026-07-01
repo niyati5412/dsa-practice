@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/niyati5412/dsa-practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niyati5412/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niyati5412/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/niyati5412/dsa-practice/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/niyati5412/dsa-practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
