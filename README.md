@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/niyati5412/dsa-practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niyati5412/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/niyati5412/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/niyati5412/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niyati5412/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niyati5412/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/niyati5412/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/niyati5412/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/niyati5412/dsa-practice/tree/master/0125-valid-palindrome) |
 ## String
@@ -42,5 +44,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/niyati5412/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/niyati5412/dsa-practice/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
