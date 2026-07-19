@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/niyati5412/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/niyati5412/dsa-practice/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/niyati5412/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/niyati5412/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niyati5412/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/niyati5412/dsa-practice/tree/master/0238-product-of-array-except-self) |
 ## Simulation
 |  |
 | ------- |
