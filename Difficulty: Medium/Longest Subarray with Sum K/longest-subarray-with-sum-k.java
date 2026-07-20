@@ -1,4 +1,3 @@
-import java.util.HashMap;
 
 class Solution {
     public int longestSubarray(int[] arr, int k) {
