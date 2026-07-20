@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/niyati5412/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/niyati5412/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/niyati5412/dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/niyati5412/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niyati5412/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/niyati5412/dsa-practice/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/niyati5412/dsa-practice/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/niyati5412/dsa-practice/tree/master/0204-count-primes) |
+| [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niyati5412/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/niyati5412/dsa-practice/tree/master/2427-number-of-common-factors) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/niyati5412/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/niyati5412/dsa-practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/niyati5412/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/niyati5412/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/niyati5412/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/niyati5412/dsa-practice/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/niyati5412/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
 |  |
