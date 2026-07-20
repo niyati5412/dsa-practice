@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/niyati5412/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niyati5412/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2761-prime-pairs-with-target-sum](https://github.com/niyati5412/dsa-practice/tree/master/2761-prime-pairs-with-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niyati5412/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/niyati5412/dsa-practice/tree/master/2427-number-of-common-factors) |
+| [2761-prime-pairs-with-target-sum](https://github.com/niyati5412/dsa-practice/tree/master/2761-prime-pairs-with-target-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -39,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niyati5412/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/niyati5412/dsa-practice/tree/master/2427-number-of-common-factors) |
+| [2761-prime-pairs-with-target-sum](https://github.com/niyati5412/dsa-practice/tree/master/2761-prime-pairs-with-target-sum) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/niyati5412/dsa-practice/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/niyati5412/dsa-practice/tree/master/2427-number-of-common-factors) |
+| [2761-prime-pairs-with-target-sum](https://github.com/niyati5412/dsa-practice/tree/master/2761-prime-pairs-with-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
