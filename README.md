@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/niyati5412/dsa-practice/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/niyati5412/dsa-practice/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/niyati5412/dsa-practice/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/niyati5412/dsa-practice/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/niyati5412/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/niyati5412/dsa-practice/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/niyati5412/dsa-practice/tree/master/0704-binary-search) |
 ## Prefix Sum
