@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/niyati5412/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/niyati5412/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/niyati5412/dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/niyati5412/dsa-practice/tree/master/0283-move-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/niyati5412/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/niyati5412/dsa-practice/tree/master/0704-binary-search) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/niyati5412/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/niyati5412/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/niyati5412/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/niyati5412/dsa-practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/niyati5412/dsa-practice/tree/master/0392-is-subsequence) |
 ## String
 |  |
