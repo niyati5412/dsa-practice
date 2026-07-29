@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/niyati5412/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/niyati5412/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/niyati5412/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/niyati5412/dsa-practice/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/niyati5412/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/niyati5412/dsa-practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/niyati5412/dsa-practice/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/niyati5412/dsa-practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/niyati5412/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/niyati5412/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Hash Table
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/niyati5412/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niyati5412/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/niyati5412/dsa-practice/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/niyati5412/dsa-practice/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
