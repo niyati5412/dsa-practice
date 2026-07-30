@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/niyati5412/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/niyati5412/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/niyati5412/dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/niyati5412/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/niyati5412/dsa-practice/tree/master/0283-move-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/niyati5412/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/niyati5412/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/niyati5412/dsa-practice/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/niyati5412/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/niyati5412/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/niyati5412/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/niyati5412/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/niyati5412/dsa-practice/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
@@ -211,4 +214,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/niyati5412/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/niyati5412/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
