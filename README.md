@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/niyati5412/dsa-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/niyati5412/dsa-practice/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/niyati5412/dsa-practice/tree/master/0204-count-primes) |
+| [0507-perfect-number](https://github.com/niyati5412/dsa-practice/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/niyati5412/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
