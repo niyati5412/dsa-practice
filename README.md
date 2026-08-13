@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/niyati5412/dsa-practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/niyati5412/dsa-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/niyati5412/dsa-practice/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/niyati5412/dsa-practice/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/niyati5412/dsa-practice/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/niyati5412/dsa-practice/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/niyati5412/dsa-practice/tree/master/0258-add-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niyati5412/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/niyati5412/dsa-practice/tree/master/2427-number-of-common-factors) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/niyati5412/dsa-practice/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/niyati5412/dsa-practice/tree/master/0258-add-digits) |
 ## Matrix
 |  |
 | ------- |
