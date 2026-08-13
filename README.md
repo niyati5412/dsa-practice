@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/niyati5412/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niyati5412/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/niyati5412/dsa-practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/niyati5412/dsa-practice/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/niyati5412/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/niyati5412/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/niyati5412/dsa-practice/tree/master/0169-majority-element) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/niyati5412/dsa-practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/niyati5412/dsa-practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/niyati5412/dsa-practice/tree/master/0137-single-number-ii) |
 | [0389-find-the-difference](https://github.com/niyati5412/dsa-practice/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
