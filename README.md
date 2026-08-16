@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/niyati5412/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niyati5412/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/niyati5412/dsa-practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/niyati5412/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/niyati5412/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/niyati5412/dsa-practice/tree/master/0704-binary-search) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/niyati5412/dsa-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/niyati5412/dsa-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/niyati5412/dsa-practice/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/niyati5412/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/niyati5412/dsa-practice/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/niyati5412/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/niyati5412/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/niyati5412/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/niyati5412/dsa-practice/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/niyati5412/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/niyati5412/dsa-practice/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/niyati5412/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/niyati5412/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/niyati5412/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/niyati5412/dsa-practice/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/niyati5412/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/niyati5412/dsa-practice/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/niyati5412/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niyati5412/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/niyati5412/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/niyati5412/dsa-practice/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
