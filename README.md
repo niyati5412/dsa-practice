@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/niyati5412/dsa-practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/niyati5412/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/niyati5412/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/niyati5412/dsa-practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/niyati5412/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/niyati5412/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/niyati5412/dsa-practice/tree/master/0088-merge-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/niyati5412/dsa-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/niyati5412/dsa-practice/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/niyati5412/dsa-practice/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/niyati5412/dsa-practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/niyati5412/dsa-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/niyati5412/dsa-practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/niyati5412/dsa-practice/tree/master/0189-rotate-array) |
