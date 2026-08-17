@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/niyati5412/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/niyati5412/dsa-practice/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/niyati5412/dsa-practice/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/niyati5412/dsa-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/niyati5412/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/niyati5412/dsa-practice/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/niyati5412/dsa-practice/tree/master/0860-lemonade-change) |
 ## Stack
 |  |
 | ------- |
