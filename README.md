@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/niyati5412/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/niyati5412/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/niyati5412/dsa-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/niyati5412/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/niyati5412/dsa-practice/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/niyati5412/dsa-practice/tree/master/0860-lemonade-change) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/niyati5412/dsa-practice/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/niyati5412/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/niyati5412/dsa-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/niyati5412/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/niyati5412/dsa-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/niyati5412/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/niyati5412/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/niyati5412/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/niyati5412/dsa-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/niyati5412/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/niyati5412/dsa-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/niyati5412/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
