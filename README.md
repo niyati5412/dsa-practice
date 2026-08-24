@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/niyati5412/dsa-practice/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/niyati5412/dsa-practice/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/niyati5412/dsa-practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1094-car-pooling](https://github.com/niyati5412/dsa-practice/tree/master/1094-car-pooling) |
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/niyati5412/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/niyati5412/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/niyati5412/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/niyati5412/dsa-practice/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/niyati5412/dsa-practice/tree/master/0435-non-overlapping-intervals) |
+| [1094-car-pooling](https://github.com/niyati5412/dsa-practice/tree/master/1094-car-pooling) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/niyati5412/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/niyati5412/dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [1094-car-pooling](https://github.com/niyati5412/dsa-practice/tree/master/1094-car-pooling) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/niyati5412/dsa-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/niyati5412/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/niyati5412/dsa-practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1094-car-pooling](https://github.com/niyati5412/dsa-practice/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/niyati5412/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/niyati5412/dsa-practice/tree/master/1732-find-the-highest-altitude) |
 ## Simulation
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/niyati5412/dsa-practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/niyati5412/dsa-practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/niyati5412/dsa-practice/tree/master/0412-fizz-buzz) |
+| [1094-car-pooling](https://github.com/niyati5412/dsa-practice/tree/master/1094-car-pooling) |
 ## Matrix
 |  |
 | ------- |
