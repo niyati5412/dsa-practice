@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/niyati5412/dsa-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/niyati5412/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/niyati5412/dsa-practice/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/niyati5412/dsa-practice/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/niyati5412/dsa-practice/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/niyati5412/dsa-practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niyati5412/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/niyati5412/dsa-practice/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/niyati5412/dsa-practice/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/niyati5412/dsa-practice/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/niyati5412/dsa-practice/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/niyati5412/dsa-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/niyati5412/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
