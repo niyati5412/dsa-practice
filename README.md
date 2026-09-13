@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/niyati5412/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/niyati5412/dsa-practice/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/niyati5412/dsa-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/niyati5412/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niyati5412/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/niyati5412/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/niyati5412/dsa-practice/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/niyati5412/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/niyati5412/dsa-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/niyati5412/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |
@@ -310,4 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niyati5412/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/niyati5412/dsa-practice/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/niyati5412/dsa-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
