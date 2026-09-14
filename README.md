@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/niyati5412/dsa-practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/niyati5412/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/niyati5412/dsa-practice/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/niyati5412/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/niyati5412/dsa-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1250-check-if-it-is-a-good-array](https://github.com/niyati5412/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/niyati5412/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/niyati5412/dsa-practice/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/niyati5412/dsa-practice/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/niyati5412/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/niyati5412/dsa-practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/niyati5412/dsa-practice/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/niyati5412/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -323,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/niyati5412/dsa-practice/tree/master/1071-greatest-common-divisor-of-strings) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/niyati5412/dsa-practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
