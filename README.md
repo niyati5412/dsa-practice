@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/niyati5412/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/niyati5412/dsa-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/niyati5412/dsa-practice/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/niyati5412/dsa-practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/niyati5412/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/niyati5412/dsa-practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/niyati5412/dsa-practice/tree/master/0074-search-a-2d-matrix) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/niyati5412/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/niyati5412/dsa-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/niyati5412/dsa-practice/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/niyati5412/dsa-practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/niyati5412/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/niyati5412/dsa-practice/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/niyati5412/dsa-practice/tree/master/0491-non-decreasing-subsequences) |
@@ -373,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niyati5412/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/niyati5412/dsa-practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
