@@ -388,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/niyati5412/dsa-practice/tree/master/0037-sudoku-solver) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/niyati5412/dsa-practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
