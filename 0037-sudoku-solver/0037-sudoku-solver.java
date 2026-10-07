@@ -14,11 +14,9 @@ class Solution {
 
                         if (isValid(board, r, c, num)) {
                             board[r][c] = num;
-
                             if (solve(board)) {
                                 return true;
                             }
-
                             board[r][c] = '.';
                         }
                     }
