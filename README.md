@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/niyati5412/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/niyati5412/dsa-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/niyati5412/dsa-practice/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/niyati5412/dsa-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/niyati5412/dsa-practice/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/niyati5412/dsa-practice/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/niyati5412/dsa-practice/tree/master/0412-fizz-buzz) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/niyati5412/dsa-practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/niyati5412/dsa-practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/niyati5412/dsa-practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/niyati5412/dsa-practice/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/niyati5412/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Queue
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/niyati5412/dsa-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/niyati5412/dsa-practice/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/niyati5412/dsa-practice/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/niyati5412/dsa-practice/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/niyati5412/dsa-practice/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/niyati5412/dsa-practice/tree/master/0491-non-decreasing-subsequences) |
 ## Binary Search
