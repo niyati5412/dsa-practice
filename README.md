@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/niyati5412/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niyati5412/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/niyati5412/dsa-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/niyati5412/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/niyati5412/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/niyati5412/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/niyati5412/dsa-practice/tree/master/0435-non-overlapping-intervals) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/niyati5412/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/niyati5412/dsa-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/niyati5412/dsa-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/niyati5412/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/niyati5412/dsa-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/niyati5412/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/niyati5412/dsa-practice/tree/master/0392-is-subsequence) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/niyati5412/dsa-practice/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/niyati5412/dsa-practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/niyati5412/dsa-practice/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/niyati5412/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/niyati5412/dsa-practice/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/niyati5412/dsa-practice/tree/master/0491-non-decreasing-subsequences) |
 ## Binary Search
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/niyati5412/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/niyati5412/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niyati5412/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/niyati5412/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/niyati5412/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/niyati5412/dsa-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/niyati5412/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/niyati5412/dsa-practice/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/niyati5412/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -403,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/niyati5412/dsa-practice/tree/master/0229-majority-element-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/niyati5412/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
