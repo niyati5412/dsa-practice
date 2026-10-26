@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/niyati5412/dsa-practice/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/niyati5412/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/niyati5412/dsa-practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/niyati5412/dsa-practice/tree/master/1143-longest-common-subsequence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/niyati5412/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/niyati5412/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/niyati5412/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/niyati5412/dsa-practice/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/niyati5412/dsa-practice/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -434,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/niyati5412/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/niyati5412/dsa-practice/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
