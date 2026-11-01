@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/niyati5412/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/niyati5412/dsa-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/niyati5412/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/niyati5412/dsa-practice/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/niyati5412/dsa-practice/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/niyati5412/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/niyati5412/dsa-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/niyati5412/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/niyati5412/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niyati5412/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/niyati5412/dsa-practice/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/niyati5412/dsa-practice/tree/master/2643-row-with-maximum-ones) |
 ## Floyd's Cycle Finding Algorithm
 |  |
