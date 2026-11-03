@@ -1,15 +1,17 @@
 class Solution {
     public ArrayList<Integer> prefSum(int[] arr) {
-
-        ArrayList<Integer> ans = new ArrayList<>();
-
-        int sum = 0;
-
-        for(int i = 0; i < arr.length; i++) {
-            sum = sum + arr[i];
-            ans.add(sum);
+        // code here
+        ArrayList<Integer> lt = new ArrayList<>();
+        int n = arr.length;
+        int prefix[]= new int[n];
+        
+        prefix[0]=arr[0];
+         lt.add(prefix[0]);
+        for(int i=1;i<n;i++){
+            prefix[i]=prefix[i-1]+arr[i];
+            lt.add(prefix[i]);
         }
-
-        return ans;
+        
+       return lt;
     }
 }
