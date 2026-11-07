@@ -451,4 +451,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/niyati5412/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/niyati5412/dsa-practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/niyati5412/dsa-practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/niyati5412/dsa-practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
