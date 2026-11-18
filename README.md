@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/niyati5412/dsa-practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/niyati5412/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/niyati5412/dsa-practice/tree/master/0090-subsets-ii) |
+| [0113-path-sum-ii](https://github.com/niyati5412/dsa-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/niyati5412/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/niyati5412/dsa-practice/tree/master/0491-non-decreasing-subsequences) |
 ## Bracket Sequences
@@ -472,11 +473,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/niyati5412/dsa-practice/tree/master/0100-same-tree) |
+| [0113-path-sum-ii](https://github.com/niyati5412/dsa-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/niyati5412/dsa-practice/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/niyati5412/dsa-practice/tree/master/0100-same-tree) |
+| [0113-path-sum-ii](https://github.com/niyati5412/dsa-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/niyati5412/dsa-practice/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
@@ -486,5 +489,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/niyati5412/dsa-practice/tree/master/0100-same-tree) |
+| [0113-path-sum-ii](https://github.com/niyati5412/dsa-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/niyati5412/dsa-practice/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
