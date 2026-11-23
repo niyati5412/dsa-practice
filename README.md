@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/niyati5412/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/niyati5412/dsa-practice/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/niyati5412/dsa-practice/tree/master/0491-non-decreasing-subsequences) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/niyati5412/dsa-practice/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Binary Search
 |  |
 | ------- |
