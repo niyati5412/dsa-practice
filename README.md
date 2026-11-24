@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/niyati5412/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/niyati5412/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/niyati5412/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/niyati5412/dsa-practice/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/niyati5412/dsa-practice/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/niyati5412/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/niyati5412/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/niyati5412/dsa-practice/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/niyati5412/dsa-practice/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/niyati5412/dsa-practice/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/niyati5412/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/niyati5412/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/niyati5412/dsa-practice/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/niyati5412/dsa-practice/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/niyati5412/dsa-practice/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/niyati5412/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/niyati5412/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/niyati5412/dsa-practice/tree/master/0257-binary-tree-paths) |
 ## Binary Lifting
