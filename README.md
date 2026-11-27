@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/niyati5412/dsa-practice/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/niyati5412/dsa-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/niyati5412/dsa-practice/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/niyati5412/dsa-practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/niyati5412/dsa-practice/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/niyati5412/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/niyati5412/dsa-practice/tree/master/0507-perfect-number) |
